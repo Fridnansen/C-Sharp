@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\Finally\Finally\obj\Debug\netcoreapp3.1\Finally.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Finally\Finally\obj\Debug\netcoreapp3.1\Finally.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Finally\Finally\obj\Debug\netcoreapp3.1\Finally.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Finally\Finally\bin\Debug\netcoreapp3.1\Finally.exe
+C:\Users\Lenovo\Source\Repos\Finally\Finally\bin\Debug\netcoreapp3.1\Finally.deps.json
+C:\Users\Lenovo\Source\Repos\Finally\Finally\bin\Debug\netcoreapp3.1\Finally.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Finally\Finally\bin\Debug\netcoreapp3.1\Finally.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Finally\Finally\bin\Debug\netcoreapp3.1\Finally.dll
+C:\Users\Lenovo\Source\Repos\Finally\Finally\bin\Debug\netcoreapp3.1\Finally.pdb
+C:\Users\Lenovo\Source\Repos\Finally\Finally\obj\Debug\netcoreapp3.1\Finally.dll
+C:\Users\Lenovo\Source\Repos\Finally\Finally\obj\Debug\netcoreapp3.1\Finally.pdb

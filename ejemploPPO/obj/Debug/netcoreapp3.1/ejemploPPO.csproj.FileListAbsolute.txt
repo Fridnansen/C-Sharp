@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\ejemploPPO\bin\Debug\netcoreapp3.1\ejemploPPO.exe
+C:\Users\Lenovo\Source\Repos\ejemploPPO\bin\Debug\netcoreapp3.1\ejemploPPO.deps.json
+C:\Users\Lenovo\Source\Repos\ejemploPPO\bin\Debug\netcoreapp3.1\ejemploPPO.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\ejemploPPO\bin\Debug\netcoreapp3.1\ejemploPPO.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\ejemploPPO\bin\Debug\netcoreapp3.1\ejemploPPO.dll
+C:\Users\Lenovo\Source\Repos\ejemploPPO\bin\Debug\netcoreapp3.1\ejemploPPO.pdb
+C:\Users\Lenovo\Source\Repos\ejemploPPO\obj\Debug\netcoreapp3.1\ejemploPPO.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\ejemploPPO\obj\Debug\netcoreapp3.1\ejemploPPO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\ejemploPPO\obj\Debug\netcoreapp3.1\ejemploPPO.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\ejemploPPO\obj\Debug\netcoreapp3.1\ejemploPPO.dll
+C:\Users\Lenovo\Source\Repos\ejemploPPO\obj\Debug\netcoreapp3.1\ejemploPPO.pdb

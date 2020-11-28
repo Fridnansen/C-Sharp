@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\usocoche30\obj\Debug\netcoreapp3.1\usocoche30.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\usocoche30\obj\Debug\netcoreapp3.1\usocoche30.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\usocoche30\obj\Debug\netcoreapp3.1\usocoche30.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\usocoche30\bin\Debug\netcoreapp3.1\usocoche30.exe
+C:\Users\Lenovo\Source\Repos\usocoche30\bin\Debug\netcoreapp3.1\usocoche30.deps.json
+C:\Users\Lenovo\Source\Repos\usocoche30\bin\Debug\netcoreapp3.1\usocoche30.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\usocoche30\bin\Debug\netcoreapp3.1\usocoche30.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\usocoche30\bin\Debug\netcoreapp3.1\usocoche30.dll
+C:\Users\Lenovo\Source\Repos\usocoche30\bin\Debug\netcoreapp3.1\usocoche30.pdb
+C:\Users\Lenovo\Source\Repos\usocoche30\obj\Debug\netcoreapp3.1\usocoche30.dll
+C:\Users\Lenovo\Source\Repos\usocoche30\obj\Debug\netcoreapp3.1\usocoche30.pdb

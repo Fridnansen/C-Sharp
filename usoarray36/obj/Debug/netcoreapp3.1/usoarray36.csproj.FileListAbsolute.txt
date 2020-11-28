@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\usoarray36\bin\Debug\netcoreapp3.1\usoarray36.exe
+C:\Users\Lenovo\Source\Repos\usoarray36\bin\Debug\netcoreapp3.1\usoarray36.deps.json
+C:\Users\Lenovo\Source\Repos\usoarray36\bin\Debug\netcoreapp3.1\usoarray36.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\usoarray36\bin\Debug\netcoreapp3.1\usoarray36.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\usoarray36\bin\Debug\netcoreapp3.1\usoarray36.dll
+C:\Users\Lenovo\Source\Repos\usoarray36\bin\Debug\netcoreapp3.1\usoarray36.pdb
+C:\Users\Lenovo\Source\Repos\usoarray36\obj\Debug\netcoreapp3.1\usoarray36.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\usoarray36\obj\Debug\netcoreapp3.1\usoarray36.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\usoarray36\obj\Debug\netcoreapp3.1\usoarray36.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\usoarray36\obj\Debug\netcoreapp3.1\usoarray36.dll
+C:\Users\Lenovo\Source\Repos\usoarray36\obj\Debug\netcoreapp3.1\usoarray36.pdb
