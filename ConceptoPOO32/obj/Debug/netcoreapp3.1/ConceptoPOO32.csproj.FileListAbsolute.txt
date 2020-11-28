@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\bin\Debug\netcoreapp3.1\ConceptoPOO32.exe
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\bin\Debug\netcoreapp3.1\ConceptoPOO32.deps.json
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\bin\Debug\netcoreapp3.1\ConceptoPOO32.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\bin\Debug\netcoreapp3.1\ConceptoPOO32.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\bin\Debug\netcoreapp3.1\ConceptoPOO32.dll
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\bin\Debug\netcoreapp3.1\ConceptoPOO32.pdb
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\obj\Debug\netcoreapp3.1\ConceptoPOO32.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\obj\Debug\netcoreapp3.1\ConceptoPOO32.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\obj\Debug\netcoreapp3.1\ConceptoPOO32.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\obj\Debug\netcoreapp3.1\ConceptoPOO32.dll
+C:\Users\Lenovo\Source\Repos\ConceptoPOO32\obj\Debug\netcoreapp3.1\ConceptoPOO32.pdb

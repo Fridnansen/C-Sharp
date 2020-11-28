@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct_y_Enum58", "Struct_y_Enum58.csproj", "{67BAB3D6-B951-4387-B996-59BD05F0E2AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67BAB3D6-B951-4387-B996-59BD05F0E2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BAB3D6-B951-4387-B996-59BD05F0E2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BAB3D6-B951-4387-B996-59BD05F0E2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BAB3D6-B951-4387-B996-59BD05F0E2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F895645-3B32-4C4D-9DB5-ED8847BCCBE8}
+	EndGlobalSection
+EndGlobal

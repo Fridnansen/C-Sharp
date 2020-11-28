@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\Destructor59\bin\Debug\netcoreapp3.1\Destructor59.exe
+C:\Users\Lenovo\Source\Repos\Destructor59\bin\Debug\netcoreapp3.1\Destructor59.deps.json
+C:\Users\Lenovo\Source\Repos\Destructor59\bin\Debug\netcoreapp3.1\Destructor59.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Destructor59\bin\Debug\netcoreapp3.1\Destructor59.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Destructor59\bin\Debug\netcoreapp3.1\Destructor59.dll
+C:\Users\Lenovo\Source\Repos\Destructor59\bin\Debug\netcoreapp3.1\Destructor59.pdb
+C:\Users\Lenovo\Source\Repos\Destructor59\obj\Debug\netcoreapp3.1\Destructor59.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Destructor59\obj\Debug\netcoreapp3.1\Destructor59.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Destructor59\obj\Debug\netcoreapp3.1\Destructor59.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Destructor59\obj\Debug\netcoreapp3.1\Destructor59.dll
+C:\Users\Lenovo\Source\Repos\Destructor59\obj\Debug\netcoreapp3.1\Destructor59.pdb

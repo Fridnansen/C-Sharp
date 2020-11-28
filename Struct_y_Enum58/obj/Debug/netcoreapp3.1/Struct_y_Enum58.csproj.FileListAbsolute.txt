@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\bin\Debug\netcoreapp3.1\Struct_y_Enum58.exe
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\bin\Debug\netcoreapp3.1\Struct_y_Enum58.deps.json
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\bin\Debug\netcoreapp3.1\Struct_y_Enum58.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\bin\Debug\netcoreapp3.1\Struct_y_Enum58.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\bin\Debug\netcoreapp3.1\Struct_y_Enum58.dll
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\bin\Debug\netcoreapp3.1\Struct_y_Enum58.pdb
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\obj\Debug\netcoreapp3.1\Struct_y_Enum58.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\obj\Debug\netcoreapp3.1\Struct_y_Enum58.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\obj\Debug\netcoreapp3.1\Struct_y_Enum58.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\obj\Debug\netcoreapp3.1\Struct_y_Enum58.dll
+C:\Users\Lenovo\Source\Repos\Struct_y_Enum58\obj\Debug\netcoreapp3.1\Struct_y_Enum58.pdb
