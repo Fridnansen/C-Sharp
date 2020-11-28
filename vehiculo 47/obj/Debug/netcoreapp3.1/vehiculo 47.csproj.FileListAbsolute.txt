@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\vehiculo 47\bin\Debug\netcoreapp3.1\vehiculo 47.exe
+C:\Users\Lenovo\Source\Repos\vehiculo 47\bin\Debug\netcoreapp3.1\vehiculo 47.deps.json
+C:\Users\Lenovo\Source\Repos\vehiculo 47\bin\Debug\netcoreapp3.1\vehiculo 47.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\vehiculo 47\bin\Debug\netcoreapp3.1\vehiculo 47.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\vehiculo 47\bin\Debug\netcoreapp3.1\vehiculo 47.dll
+C:\Users\Lenovo\Source\Repos\vehiculo 47\bin\Debug\netcoreapp3.1\vehiculo 47.pdb
+C:\Users\Lenovo\Source\Repos\vehiculo 47\obj\Debug\netcoreapp3.1\vehiculo 47.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\vehiculo 47\obj\Debug\netcoreapp3.1\vehiculo 47.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\vehiculo 47\obj\Debug\netcoreapp3.1\vehiculo 47.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\vehiculo 47\obj\Debug\netcoreapp3.1\vehiculo 47.dll
+C:\Users\Lenovo\Source\Repos\vehiculo 47\obj\Debug\netcoreapp3.1\vehiculo 47.pdb

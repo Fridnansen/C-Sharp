@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\array40\bin\Debug\netcoreapp3.1\array40.exe
+C:\Users\Lenovo\Source\Repos\array40\bin\Debug\netcoreapp3.1\array40.deps.json
+C:\Users\Lenovo\Source\Repos\array40\bin\Debug\netcoreapp3.1\array40.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\array40\bin\Debug\netcoreapp3.1\array40.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\array40\bin\Debug\netcoreapp3.1\array40.dll
+C:\Users\Lenovo\Source\Repos\array40\bin\Debug\netcoreapp3.1\array40.pdb
+C:\Users\Lenovo\Source\Repos\array40\obj\Debug\netcoreapp3.1\array40.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\array40\obj\Debug\netcoreapp3.1\array40.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\array40\obj\Debug\netcoreapp3.1\array40.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\array40\obj\Debug\netcoreapp3.1\array40.dll
+C:\Users\Lenovo\Source\Repos\array40\obj\Debug\netcoreapp3.1\array40.pdb
