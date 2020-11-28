@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.exe
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.deps.json
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.dll
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\bin\Debug\netcoreapp3.1\PrimeraAplicacion.pdb
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.dll
+C:\Users\Lenovo\Source\Repos\PrimeraAplicacion\obj\Debug\netcoreapp3.1\PrimeraAplicacion.pdb

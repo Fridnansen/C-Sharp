@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.exe
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.deps.json
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.dll
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp3.1\PracticaMetodos.pdb
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.dll
+C:\Users\Lenovo\Source\Repos\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp3.1\PracticaMetodos.pdb

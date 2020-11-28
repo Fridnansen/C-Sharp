@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\bin\Debug\netcoreapp3.1\usoCheked.exe
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\bin\Debug\netcoreapp3.1\usoCheked.deps.json
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\bin\Debug\netcoreapp3.1\usoCheked.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\bin\Debug\netcoreapp3.1\usoCheked.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\bin\Debug\netcoreapp3.1\usoCheked.dll
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\bin\Debug\netcoreapp3.1\usoCheked.pdb
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\obj\Debug\netcoreapp3.1\usoCheked.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\obj\Debug\netcoreapp3.1\usoCheked.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\obj\Debug\netcoreapp3.1\usoCheked.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\obj\Debug\netcoreapp3.1\usoCheked.dll
+C:\Users\Lenovo\Source\Repos\usoCheked\usoCheked\obj\Debug\netcoreapp3.1\usoCheked.pdb

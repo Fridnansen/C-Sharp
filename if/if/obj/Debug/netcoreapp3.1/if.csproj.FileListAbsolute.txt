@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Source\Repos\if\if\obj\Debug\netcoreapp3.1\if.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\if\if\obj\Debug\netcoreapp3.1\if.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\if\if\obj\Debug\netcoreapp3.1\if.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\if\if\bin\Debug\netcoreapp3.1\if.exe
+C:\Users\Lenovo\Source\Repos\if\if\bin\Debug\netcoreapp3.1\if.deps.json
+C:\Users\Lenovo\Source\Repos\if\if\bin\Debug\netcoreapp3.1\if.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\if\if\bin\Debug\netcoreapp3.1\if.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\if\if\bin\Debug\netcoreapp3.1\if.dll
+C:\Users\Lenovo\Source\Repos\if\if\bin\Debug\netcoreapp3.1\if.pdb
+C:\Users\Lenovo\Source\Repos\if\if\obj\Debug\netcoreapp3.1\if.dll
+C:\Users\Lenovo\Source\Repos\if\if\obj\Debug\netcoreapp3.1\if.pdb
